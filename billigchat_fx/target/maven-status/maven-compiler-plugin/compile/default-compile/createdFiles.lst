@@ -1,0 +1,16 @@
+de/htw/tma/bic/BilligChat/view/elements/displays/SystemDisplay.class
+de/htw/tma/bic/BilligChat/controller/FxEvents.class
+de/htw/tma/bic/BilligChat/view/elements/SendBar.class
+de/htw/tma/bic/BilligChat/usb/JSerialUsbDriver.class
+de/htw/tma/bic/BilligChat/view/elements/displaylines/CommandLine.class
+de/htw/tma/bic/BilligChat/view/elements/ActionBar.class
+de/htw/tma/bic/BilligChat/controller/FxRxCallBack.class
+de/htw/tma/bic/BilligChat/FxApp.class
+de/htw/tma/bic/BilligChat/view/elements/displays/ChatDisplay.class
+de/htw/tma/bic/BilligChat/view/elements/displaylines/LedCommand.class
+de/htw/tma/bic/BilligChat/view/elements/Display.class
+de/htw/tma/bic/BilligChat/model/FxResponse.class
+de/htw/tma/bic/BilligChat/view/scenes/ChatScene.class
+de/htw/tma/bic/BilligChat/view/elements/displays/CommandDisplay.class
+de/htw/tma/bic/BilligChat/controller/BilligChat.class
+de/htw/tma/bic/BilligChat/controller/FxRxCallBack$1.class

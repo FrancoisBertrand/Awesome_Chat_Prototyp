@@ -1,0 +1,15 @@
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/controller/FxEvents.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/view/elements/displays/SystemDisplay.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/view/elements/SendBar.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/view/elements/displays/CommandDisplay.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/view/elements/displaylines/CommandLine.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/usb/JSerialUsbDriver.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/view/elements/displays/ChatDisplay.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/view/elements/ActionBar.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/model/FxResponse.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/FxApp.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/view/elements/displaylines/LedCommand.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/controller/BilligChat.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/controller/FxRxCallBack.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/view/scenes/ChatScene.java
+/Users/francoisbertrand/Desktop/TechMoAnw/billigchat_fx/src/main/java/de/htw/tma/bic/BilligChat/view/elements/Display.java
